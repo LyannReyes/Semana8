@@ -1,0 +1,98 @@
+body{
+	background-color: #ff9999;
+}
+
+h1{
+	font-size: 3em;
+	font-family: "Games";
+	text-align: center;
+	color: #b30000;
+	display: block;
+	background-color: #660000;
+	padding: 1%;
+}
+
+nav{
+	text-align: center;
+	text-decoration: none;
+	list-style-type: none;
+	background-color: #b30000;
+	word-spacing: normal;
+	padding: 0.5%;
+}
+
+li a{
+	text-decoration: none;
+	color: #660000;
+	font-size: 1.5em;
+	font-family: "GamePlay";
+}
+
+li a:hover{
+	background-color: #ff8080;
+	color: #b30000;
+}
+
+#pong1{
+	width: 15%;
+	display: block;
+	padding: 1%;
+	position: absolute;
+}
+
+section{
+ font-family: "Game Over";
+ color: #4d0000;
+}
+
+h2{
+	padding-bottom: 1%;
+	position: relative;
+	float: left;
+	padding-left: 250px;
+    font-size: 4.5em;
+}
+
+.parraA{
+	padding-bottom: 1%;
+	position: relative;
+	float: right;
+	padding-left: 250px;
+	padding-bottom: 2%;
+	font-size: 3em;
+}
+
+.parraB{
+	padding-top: 45px;
+	padding-bottom: 1%;
+	position: relative;
+	float: left;
+	font-size: 3em;
+}
+
+#vidphA{
+	width: 23%;
+	padding: 0.5%;
+}
+
+#vidphB{
+	width: 30%;
+	padding: 0.5%;
+}
+
+#vidphC{
+	width: 17%;
+	padding: 0.5%;
+}
+
+#vidphD{
+	width: 25%;
+	padding: 0.5%;
+}
+
+footer{
+	font-family: "Games";
+	background-color: #660000;
+	padding: 10px;
+}
+
